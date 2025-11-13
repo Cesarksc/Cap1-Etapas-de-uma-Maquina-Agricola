@@ -7,16 +7,13 @@
 
 <br>
 
-# Agro Cana Perdas
-
-## Grupo: [Nome do grupo]
+# Cap 1 - Etapas de uma Máquina Agrícola
 
 ## 👨‍🎓 Integrantes:
 - Cesar Kayque de Sousa Carvalho - RM556399
 
 ## 📜 Descrição
-
-Análise de Dados de Colheita de Cana-de-açúcar (Fase 3). Este projeto analisa dados da tabela `SENSORES` do Oracle para entender padrões de produção e perdas em diferentes tipos de colheita. Inclui visualizações exploratórias e modelagem preditiva com 5 algoritmos de machine learning para prever perdas financeiras.
+Este projeto analisa dados da tabela `SENSORES` do Oracle para entender padrões de produção e perdas em diferentes tipos de colheita. Inclui visualizações exploratórias e modelagem preditiva com 5 algoritmos de machine learning para prever perdas financeiras.
 
 ## 📁 Estrutura de pastas
 
